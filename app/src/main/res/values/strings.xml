@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ultimate Name Quiz</string>
+    <string name="database">Database</string>
+    <string name="quiz">QUIZ</string>
+    <string name="add_student">Add Student</string>
+    <string name="database_button">Database</string>
+    <string name="question">Who is this?</string>
+    <string name="next">NEXT</string>
+    <string name="add_entry_heading">Add New Entry</string>
+    <string name="save_entry">Save entry</string>
+    <string name="add_image">Add a image</string>
+    <string name="sort_A">SORT A->Z</string>
+    <string name="sort_Z">SORT Z->A</string>
+
+</resources>
